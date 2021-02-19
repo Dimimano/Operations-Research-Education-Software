@@ -1,4 +1,4 @@
-**Operations Research Educational Software**
+# Operations Research Educational Software
 
 This project is still in progress and currently only features a presentation for the Simplex algorithm (Tableau method).
 
